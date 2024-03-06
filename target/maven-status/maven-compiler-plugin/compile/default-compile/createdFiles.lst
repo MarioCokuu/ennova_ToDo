@@ -1,0 +1,12 @@
+com\example\mario\ennova_ToDo\config\MvcConfig.class
+com\example\mario\ennova_ToDo\config\TodoItemDataLoader.class
+com\example\mario\ennova_ToDo\service\serviceImpl\ToDoFormServiceImpl.class
+com\example\mario\ennova_ToDo\service\TodoFormService.class
+com\example\mario\ennova_ToDo\service\TodoItemService.class
+com\example\mario\ennova_ToDo\entity\TodoItem.class
+com\example\mario\ennova_ToDo\repository\TodoItemRepository.class
+com\example\mario\ennova_ToDo\controller\TodoFormController.class
+com\example\mario\ennova_ToDo\controller\TodoItemController.class
+com\example\mario\ennova_ToDo\EnnovaToDoApplication.class
+com\example\mario\ennova_ToDo\config\SpringSecurityConfiguration.class
+com\example\mario\ennova_ToDo\service\serviceImpl\TodoItemServiceImpl.class
